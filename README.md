@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadir-hassan)
 
 
 
@@ -21,9 +22,8 @@
 [<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/https://www.facebook.com/qadir.hassan.142)  
-<br />
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
+***
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
