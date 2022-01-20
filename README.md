@@ -56,6 +56,10 @@
 <br />
 
 ---
+![Profile views](https://gpvc.arturio.dev/Qadir-Hassan)</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qadir-Hassan&show_icons=true) </br>
+![GitHub metrics](https://metrics.lecoq.io/Qadir-Hassan)  
+
 
 
 [website]: https://qadirhassan.com/
