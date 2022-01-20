@@ -33,6 +33,16 @@
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </br>
+</br>
+
+#### Backend Technologies
+<img align="left" alt="JavaScript" width="40px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png" />
+<img align="left" alt="JavaScript" width="60px" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" />
+<img align="left" alt="C++" width="40px" src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials.jpg" />
+<img align="left" alt="C++" width="60px" src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" />
+
+</br>
+</br>
 
 
 
