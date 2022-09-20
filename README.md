@@ -12,18 +12,19 @@
 
 ### Technical Skills :
 <table>
-<tr><td><img src="https://github.com/Qadir-Hassan/github2/blob/main/office.svg" alt="Office" width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/jira.svg" alt="Jira"  width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/hotjar.png" alt="Hotjar"  width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/tableu.svg" alt="Tabelue"  width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/figma.svg" alt="Figma"  width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/git.svg" alt="Git"  width=50px ></td> 
+<tr><td><img src="https://i.postimg.cc/90F78Kd2/office.png" alt="Office" width=50px ></td> 
+<td><img src="https://i.postimg.cc/X7PCL2pM/jira.png" alt="Jira"  width=50px ></td> 
+<td><img src="https://i.postimg.cc/1tS66f4f/hotjar.png" alt="Hotjar"  width=50px ></td> 
+<td><img src="https://i.postimg.cc/prGngCCF/tableu.png" alt="Tabelue"  width=50px ></td> 
+<td><img src="https://i.postimg.cc/fbn0nJcB/figma.png" alt="Figma"  width=50px ></td> 
+<td><img src="https://i.postimg.cc/FRbyn0wy/git.png" alt="Git"  width=50px ></td> 
  </tr>
   <tr>
- <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/google-analytics.svg" alt="Google Analytics"  width=50px ></td> 
-  <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/sharepoint.svg" alt="Sharepoints"  width=50px ></td> 
- <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/confluence.svg" alt="Confluence"  width=50px ></td> 
-  <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/sql.svg" alt="SQL"  width=50px ></td> 
+ <td><img src="https://i.postimg.cc/BZMDLZ3n/google-analytics.png" alt="Google Analytics"  width=50px ></td> 
+  <td><img src="https://i.postimg.cc/63hZhtGz/sharepoint.png" alt="Sharepoints"  width=50px ></td> 
+ <td><img src="https://i.postimg.cc/SNR9W0Q7/confluence.png" alt="Confluence"  width=50px ></td> 
+  <td><img src="https://i.postimg.cc/SxwcSZhL/sql.png" alt="SQL"  width=50px ></td> 
+  
  </tr>
 </table>
 
