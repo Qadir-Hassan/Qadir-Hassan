@@ -1,7 +1,8 @@
 ## Hello Universe, CHRISTOPHER CHASTE INEGBEDION 👋
+
 <img src = "https://github.com/Qadir-Hassan/github2/blob/main/call.svg" width="30px" > +1-929-488-0608 | </h3>  <img src = "https://github.com/Qadir-Hassan/github2/blob/main/email.svg" width="30px" > chaste@creative5.org.ng |   Tulsa,OK |   <img src = "https://github.com/Qadir-Hassan/github2/blob/main/icons8-website-50.png" width="30px" > https://bit.ly/3Ug8ROp
 
-<img src = "https://github.com/Qadir-Hassan/github2/blob/main/Screenshot%20(67).png" >
+<img src = "https://i.postimg.cc/W4Qw2Ctj/bg.png" >
 
 <img src="https://i.postimg.cc/Pq9F1GwC/f1.png" >
 <img src="https://i.postimg.cc/kgMZmvCg/f2.png" >
@@ -10,9 +11,7 @@
 <img src="https://i.postimg.cc/NFhSvhs3/f4.png" >
 <img src="https://i.postimg.cc/BvVRNLdQ/f5.png" >
 <img src="https://i.postimg.cc/G2tSyLtw/f6.png" >
-<img src="https://i.postimg.cc/3NDStt2t/f7.png" >
-<img src="https://i.postimg.cc/ZnrgTf0C/f8.png" >
-<img src="https://i.postimg.cc/3JF6VbPq/f9.png" >
+
 
         
           
@@ -37,17 +36,14 @@
   
  </tr>
 </table>
-
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
-
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f7.png" >
-
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f8.png" >
+<img src="https://i.postimg.cc/3NDStt2t/f7.png" >
+<img src="https://i.postimg.cc/ZnrgTf0C/f8.png" >
 <h2><a href="https://github.com/anamiqbal95/Disaster-Tweet-Prediction"> PROJECT LINK</a><h2>
+<img src="https://i.postimg.cc/3JF6VbPq/f9.png" >
+        <h2><a href="https://github.com/anamiqbal95/Disaster-Tweet-Prediction"> PROJECT LINK</a><h2>
 
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f9.png" >
-<h2><a href="https://github.com/anamiqbal95/Disaster-Tweet-Prediction"> PROJECT LINK</a><h2>
+
+
 
 
 
