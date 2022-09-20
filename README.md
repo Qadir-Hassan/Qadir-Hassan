@@ -10,7 +10,14 @@
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f5.png" >
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f6.png" >
 
-## Languages and Tools:
+### Technical Skills :
+<table>
+<tr><td><img src="https://github.com/Qadir-Hassan/github2/blob/main/office.svg" alt="Office" width=50px ></td> 
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/jira.svg" alt="Jira" width=50px ></td> 
+
+</tr>
+</table>
+
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
 
