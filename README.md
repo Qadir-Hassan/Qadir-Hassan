@@ -13,7 +13,12 @@
 ### Technical Skills :
 <table>
 <tr><td><img src="https://github.com/Qadir-Hassan/github2/blob/main/office.svg" alt="Office" width=50px ></td> 
-<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/jira.svg" alt="Jira" width=50px ></td> 
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/jira.svg" alt="Jira"  width=50px ></td> 
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/hotjar.png" alt="Hotjar"  width=50px ></td> 
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/tableu.svg" alt="Tabelue"  width=50px ></td> 
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/figma.svg" alt="Figma"  width=50px ></td> 
+ <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/tableu.svg" alt="Tabelue"  width=50px ></td> 
+ 
 
 </tr>
 </table>
