@@ -24,6 +24,7 @@
   <td><img src="https://i.postimg.cc/63hZhtGz/sharepoint.png" alt="Sharepoints"  width=50px ></td> 
  <td><img src="https://i.postimg.cc/SNR9W0Q7/confluence.png" alt="Confluence"  width=50px ></td> 
   <td><img src="https://i.postimg.cc/SxwcSZhL/sql.png" alt="SQL"  width=50px ></td> 
+   <td><img src="https://i.postimg.cc/gc3Cp0Cr/adobe.png" alt="SQL"  width=50px ></td> 
   
  </tr>
 </table>
