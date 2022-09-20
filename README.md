@@ -1,5 +1,5 @@
 ## Hello Universe, CHRISTOPHER CHASTE INEGBEDION 👋
-<img src = "https://github.com/Qadir-Hassan/github2/blob/main/call.svg" width="20px" > +1-929-488-0608 | <img src = "https://github.com/Qadir-Hassan/github2/blob/main/email.svg" width="20px" > chaste@creative5.org.ng | Tulsa,OK | <img src = "https://github.com/Qadir-Hassan/github2/blob/main/icons8-website-50.png" width="20px" > chaste@creative5.org.ng | Tulsa,OK | 
+<img src = "https://github.com/Qadir-Hassan/github2/blob/main/call.svg" width="30px" > +1-929-488-0608 | </h3>  <img src = "https://github.com/Qadir-Hassan/github2/blob/main/email.svg" width="30px" > chaste@creative5.org.ng |   Tulsa,OK |   <img src = "https://github.com/Qadir-Hassan/github2/blob/main/icons8-website-50.png" width="30px" > https://bit.ly/3Ug8ROp
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
