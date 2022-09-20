@@ -3,12 +3,21 @@
 
 <img src = "https://github.com/Qadir-Hassan/github2/blob/main/Screenshot%20(67).png" >
 
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f1.png" >
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f2.png" >
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f3.png" >
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f4.png" >
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f5.png" >
-<img src="https://github.com/Qadir-Hassan/github2/blob/main/f6.png" >
+<img src="https://i.postimg.cc/Pq9F1GwC/f1.png" >
+<img src="https://i.postimg.cc/kgMZmvCg/f2.png" >
+<img src="https://i.postimg.cc/xdc4kjcr/f3.png" > 
+<img src="https://i.postimg.cc/nhh1hHLv/f10.png" > 
+<img src="https://i.postimg.cc/NFhSvhs3/f4.png" >
+<img src="https://i.postimg.cc/BvVRNLdQ/f5.png" >
+<img src="https://i.postimg.cc/G2tSyLtw/f6.png" >
+<img src="https://i.postimg.cc/3NDStt2t/f7.png" >
+<img src="https://i.postimg.cc/ZnrgTf0C/f8.png" >
+<img src="https://i.postimg.cc/3JF6VbPq/f9.png" >
+
+        
+          
+
+          
 
 ### Technical Skills :
 <table>
