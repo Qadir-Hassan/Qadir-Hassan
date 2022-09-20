@@ -17,10 +17,14 @@
 <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/hotjar.png" alt="Hotjar"  width=50px ></td> 
 <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/tableu.svg" alt="Tabelue"  width=50px ></td> 
 <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/figma.svg" alt="Figma"  width=50px ></td> 
- <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/tableu.svg" alt="Tabelue"  width=50px ></td> 
- 
-
-</tr>
+<td><img src="https://github.com/Qadir-Hassan/github2/blob/main/git.svg" alt="Git"  width=50px ></td> 
+ </tr>
+  <tr>
+ <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/google-analytics.svg" alt="Google Analytics"  width=50px ></td> 
+  <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/sharepoint.svg" alt="Sharepoints"  width=50px ></td> 
+ <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/confluence.svg" alt="Confluence"  width=50px ></td> 
+  <td><img src="https://github.com/Qadir-Hassan/github2/blob/main/sql.svg" alt="SQL"  width=50px ></td> 
+ </tr>
 </table>
 
 
