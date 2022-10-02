@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadir-hassan)
-<img src="https://github.com/Qadir-Hassan/attachement/blob/main/Web%20Developer%20Business%20Card%20.png">
+<img src="https://github.com/Qadir-Hassan/attachement/blob/main/bg.png">
 
 ## I'm a Full Stack Developer, and Teacher!!
 
@@ -24,20 +24,13 @@
 ***
 ### Languages and Tools:
 
-#### Front-End Technologies                      
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</br>
+### Front-End Technologies  
+[![My Skills](https://skills.thijs.gg/icons?i=angular,html,css,js,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
 </br>
 
-#### Backend Technologies
-<img align="left" alt="JavaScript" width="40px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" />
-<img align="left" alt="C++" width="40px" src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials.jpg" />
-<img align="left" alt="C++" width="60px" src="https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" />
+### Backend Technologies
+
+[![My Skills](https://skills.thijs.gg/icons?i=php,py,c,django,mysql,mongodb&theme=dark)](https://skills.thijs.gg)
 
 </br>
 </br>
