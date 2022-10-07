@@ -45,17 +45,17 @@
 # CHECK OUT MY RECENT PROJECTS!
 <table>
   <tr>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width = "1000">
+    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width = 1000>
     </td>
-     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width = "1000"">
+     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/NCAI-%E2%80%93-National-Center-of-Artificial-Intelligence.png" width = 700>
     </td>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width = "1000"">
+    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width =1000>
     </td>
   </tr> 
   
   <tr>
-    <td>1. Metaverse</td>
-     <td>2. NFT Minting Platform</td>
+    <td><a href="https://newtonpad.com/"</a> 1. Newton Pad</td>
+        <td><a href="https://ncai.pk/"</a> 2. NCAI NUST</td>
      <td>3. dApp Platform</td>
   </tr>
  
