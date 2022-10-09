@@ -40,8 +40,6 @@
 <br />
 
 
----
-
 # CHECK OUT MY RECENT PROJECTS!
 <table>
   <tr>
@@ -49,20 +47,19 @@
     </td>
      <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/NCAI-%E2%80%93-National-Center-of-Artificial-Intelligence.png" width = 700>
     </td>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width =1000>
+    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Ascend-Perinatal-%E2%80%93-Ascend-Perinatal.png" width =1000>
     </td>
   </tr> 
   
   <tr>
     <td><a href="https://newtonpad.com/"</a> 1. Newton Pad</td>
         <td><a href="https://ncai.pk/"</a> 2. NCAI NUST</td>
-     <td>3. dApp Platform</td>
+     <td><a href="https://ascendperinatal.com/"</a> 3. Ascend Perinatal </td>
   </tr>
+  
  
  <tr> 
-  <td>
-   <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture5.JPG/:/cr=t:0%25,l:4.66%25,w:90.67%25,h:100%25/rs=w:388,h:194,cg:true">
-  </td>
+  <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Home-Maine-Cabinet-Company.png" width =1000></td>
  
   <td>
    <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture6.JPG/:/cr=t:0%25,l:6.8%25,w:86.4%25,h:100%25/rs=w:388,h:194,cg:true">
@@ -75,7 +72,7 @@
  </tr>
   
    <tr>
-    <td>4. P2P Defi Platform</td>
+     <td><a href="https://mainecabinetcompany.net/"</a> 4. Maine Cabinet Company </td>
      <td>5. Alt Coin and Platform</td>
      <td>6. Crypto Wallet App</td>
   </tr>
